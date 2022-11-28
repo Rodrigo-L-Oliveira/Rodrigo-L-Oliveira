@@ -5,12 +5,12 @@
 ![1_dxbvVHJkUh5HagZ7HI0nFw](https://user-images.githubusercontent.com/82120129/183794253-159e858b-bde6-4984-837a-c252a6460594.gif)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>  
+  <img align="center" alt="NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" 	alt="Banco" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img aling="center" alt"MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img aling="center" alt"MySQL" height="35" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
 </div>
   
   ##
