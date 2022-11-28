@@ -10,7 +10,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" 	alt="Banco" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img aling="center" alt"MySQL" height="100" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img aling="center" alt"MySQL" height="35" width="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
 </div>
   
   ##
