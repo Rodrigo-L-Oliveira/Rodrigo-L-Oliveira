@@ -1,5 +1,5 @@
-### Bem vindo ao meu perfil GitHub 👋
-#### Rodrigo Lima de Oliveira
+## Bem vindo ao meu perfil GitHub 👋
+### Rodrigo Lima de Oliveira
 ###### 🙋🏻‍♂️ 20y
 ###### 👨🏻‍💻 Cursando Faculdade em Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
 
