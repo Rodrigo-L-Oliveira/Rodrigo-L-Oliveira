@@ -13,7 +13,6 @@
   <br>
   <img aling="center" alt"MySQL" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
 </div>
-  <br>
   <img aling="center" alt"MySQL" height="50" width="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 </div>
   
