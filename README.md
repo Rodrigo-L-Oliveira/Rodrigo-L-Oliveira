@@ -1,7 +1,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 ### Rodrigo Lima de Oliveira
 ##### 🙋🏻‍♂️ 20y
-##### 👨🏻‍💻 Tecnólogo de Análise e Desenvolvimento de Sistemas - Sptech School
 
 ![1_dxbvVHJkUh5HagZ7HI0nFw](https://user-images.githubusercontent.com/82120129/183794253-159e858b-bde6-4984-837a-c252a6460594.gif)
 
