@@ -11,9 +11,9 @@
   <img align="center" alt="NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" 	alt="Banco" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <br>
-  <img aling="center" alt"MySQL" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
 </div>
-  <img aling="center" alt"MySQL" height="25" width="25Icon " src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+  <img aling="center" alt"MySQL" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+  <img alt"MySQL" height="25" width="25Icon " src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 </div>
   
   ##
