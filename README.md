@@ -12,8 +12,10 @@
   <img align="center" 	alt="Banco" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <br>
 </div>
+  <div style="display="flex"">
   <img aling="center" alt"MySQL" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
-  <img alt"MySQL" height="25" width="25Icon " src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+  <img aling="center" alt"MySQL" height="25" width="25Icon " src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+  </div>
 </div>
   
   ##
