@@ -14,7 +14,7 @@
 </div>
   <div style="display="flex"">
   <img aling="center" alt"MySQL" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
-  <img aling="center" alt"MySQL" height="25" width="25Icon " src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+  <img style="margin-bottom: 2px"aling="center" alt"MySQL" height="25" width="25Icon " src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   </div>
 </div>
   
