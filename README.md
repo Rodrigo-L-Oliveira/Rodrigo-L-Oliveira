@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 ### Rodrigo Lima de Oliveira
-##### 🙋🏻‍♂️ 20y
+##### 🙋🏻‍♂️ 21y
 
 ![1_dxbvVHJkUh5HagZ7HI0nFw](https://user-images.githubusercontent.com/82120129/183794253-159e858b-bde6-4984-837a-c252a6460594.gif)
 
@@ -24,4 +24,4 @@
   <a href="https://www.linkedin.com/in/rodrigo-lima-588239254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
- ![snake gif](https://github.com/Rodrig0Lim4/Rodrig0Lim4/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Rodrigo-L-Oliveira/Rodrigo-L-Oliveira/blob/output/github-contribution-grid-snake.svg)
