@@ -1,6 +1,6 @@
 ### Olá! Me chamo Rodrigo Lima de Oliveira
-##### 🙋🏻‍♂️ 21y
-##### - 🔭 Em busca de oportunidade profissional como desenvolvedor full-stack
+##### 🙋🏻‍♂️ 22y
+##### - 🔭 Estagiário em Desenvolvimento de Software na Timeware
 ##### - 🌱 Atualmente estudante de Ciência da Computação pela Universidade Cruzeiro do Sul
 ##### - ⚡ Fui estudante do instituto proa 4.0 e estou buscando me aprimorar para futuramente entrar na área de dados como cientista de dados
  <div>
